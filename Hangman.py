@@ -42,4 +42,4 @@ while not end_of_game:
         end_of_game = True
         print('You lose!')
         print(f'The word was {chosen_word}.')
-input()
+        input()
